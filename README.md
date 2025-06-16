@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]
 
+Soy un desarrollador **Fullstack Junior** con especialización en:
 
-**miguelbac/miguelbac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚛️ **Frontend:** React, TypeScript, Tailwind CSS  
+- ☕ **Backend:** Spring Boot, Java 17, REST APIs  
+- 🛠️ **Herramientas:** Git, Docker, Jira, VSCode
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Sobre mí
 
+Apasionado por crear interfaces intuitivas y desarrollar aplicaciones robustas del lado del servidor. Busco constantemente mejorar mis habilidades técnicas y colaborar en proyectos donde pueda aportar valor desde el diseño del frontend hasta la lógica del backend.
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: [tuemail@example.com]
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 🌐 Portfolio: [tusitio.dev](https://tusitio.dev)
+
+---
+
+> _"Construyendo soluciones, una línea de código a la vez."_
