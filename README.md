@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Miguel
 
 Soy un desarrollador **Fullstack Junior** con especialización en:
 
