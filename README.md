@@ -16,10 +16,8 @@ Apasionado por crear interfaces intuitivas y desarrollar aplicaciones robustas d
 
 ## 📫 Contacto
 
-- 📧 Email: [tuemail@example.com]
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 🌐 Portfolio: [tusitio.dev](https://tusitio.dev)
-
+- 📧 Email: [mbacebal@gmail.com]
+- 💼 LinkedIn: [www.linkedin.com/in/miguelbac]((https://www.linkedin.com/in/miguelbac/))
 ---
 
 > _"Construyendo soluciones, una línea de código a la vez."_
