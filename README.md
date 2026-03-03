@@ -20,4 +20,4 @@ Apasionado por crear interfaces intuitivas y desarrollar aplicaciones robustas d
 - 💼 LinkedIn: [www.linkedin.com/in/miguelbac]((https://www.linkedin.com/in/miguelbac/))
 ---
  
-> _"Construyendo soluciones, una línea de código a la vez."_    
+> _"Construyendo soluciones, una línea de código a la vez."_     
